@@ -15,6 +15,7 @@ gem 'haml', '~> 4.0.4'
 gem 'bootstrap-sass', '~> 3.0.2.1'
 
 gem 'omniauth-github'
+gem 'omniauth-google-oauth2'
 gem 'omniauth-twitter'
 
 gem 'chartkick'
